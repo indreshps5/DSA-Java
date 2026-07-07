@@ -1,5 +1,5 @@
 # DSA-Java
-This repository contains my solutions to LeetCode problems implemented in Java. The purpose of this repository is to track my progress in Data Structures and Algorithms (DSA), improve problem-solving skills, and prepare for coding interviews and competitive programming.
+This repository contains my solutions to LeetCode and CodeChef problems implemented in Java. The purpose of this repository is to track my progress in Data Structures and Algorithms (DSA), improve problem-solving skills, and prepare for coding interviews and competitive programming.
 
 Topics Covered
 
